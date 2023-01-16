@@ -1,27 +1,29 @@
-<h1 align="center">Hi 👋, I'm Gyanapriya Pradhan</h1>
+[![MasterHead](https://thumbs.dreamstime.com/b/flat-line-design-website-banner-online-security-data-protection-antivirus-software-cloud-computing-modern-vector-illustration-69839079.jpg)](https://rishavchanda.io)
+<h1 align="center">Hi ??, I'm Gyanapriya Pradhan</h1>
 <h3 align="center">A passionate Cloud Research Scholar & Full stack Developer from India</h3>
+<img align="right" alt="coding" width="400" src"https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=coregyana" alt="coregyana" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/gyanapriya_7" target="blank"><img src="https://img.shields.io/twitter/follow/gyanapriya_7?logo=twitter&style=for-the-badge" alt="gyanapriya_7" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Research**
+- ?? I’m currently working on **Cloud Research**
 
-- 🌱 I’m currently learning **Serverless Architecture**
+- ?? I’m currently learning **Serverless Architecture**
 
-- 👯 I’m looking to collaborate on **Blockchain Project**
+- ?? I’m looking to collaborate on **Blockchain Project**
 
-- 🤝 I’m looking for help with **Research work**
+- ?? I’m looking for help with **Research work**
 
-- 📝 I regularly write articles on [lovebyte8.blogspot.com](lovebyte8.blogspot.com)
+- ?? I regularly write articles on [lovebyte8.blogspot.com](lovebyte8.blogspot.com)
 
-- 💬 Ask me about **cloud, blockchain, competitive coding**
+- ?? Ask me about **cloud, blockchain, competitive coding**
 
-- 📫 How to reach me **gyana.cse7@gmail.com**
+- ?? How to reach me **gyana.cse7@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KbtqwIGd_RAjbuc1kL9xeUfFU4XNwESV/view?usp=sharing](https://drive.google.com/file/d/1KbtqwIGd_RAjbuc1kL9xeUfFU4XNwESV/view?usp=sharing)
+- ?? Know about my experiences [https://drive.google.com/file/d/1KbtqwIGd_RAjbuc1kL9xeUfFU4XNwESV/view?usp=sharing](https://drive.google.com/file/d/1KbtqwIGd_RAjbuc1kL9xeUfFU4XNwESV/view?usp=sharing)
 
-- ⚡ Fun fact **I think i am an Academic AI robot**
+- ? Fun fact **I think i am an Academic AI robot**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
