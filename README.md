@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/gyanapriya_7" target="blank"><img src="https://img.shields.io/twitter/follow/gyanapriya_7?logo=twitter&style=for-the-badge" alt="gyanapriya_7" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud Research**
+- 🔭 I’m currently working on **Research work**
 
-- 🌱 I’m currently learning **Serverless Architecture**
+- 🌱 I’m currently learning **Cloud DevOps**
 
 - 👯 I’m looking to collaborate on **Academic Projects**
 
