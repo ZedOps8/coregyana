@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gyanapriya Pradhan</h1>
-<h3 align="center">A passionate Cloud Research Scholar & Full stack Developer from India</h3>
+<h3 align="center">A passionate Research Scholar & Full stack Developer from India</h3>
 
 <p align="left"> <a href="https://twitter.com/gyanapriya_7" target="blank"><img src="https://img.shields.io/twitter/follow/gyanapriya_7?logo=twitter&style=for-the-badge" alt="gyanapriya_7" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [lovebyte8.blogspot.com](lovebyte8.blogspot.com)
 
-- 💬 Ask me about **cloud, blockchain, competitive coding**
+- 💬 Ask me about **Research, Cloud Security , DevOps, Open Source Contribution**
 
 - 📫 How to reach me **gyana.cse7@gmail.com**
 
