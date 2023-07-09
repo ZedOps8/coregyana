@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Serverless Architecture**
 
-- 👯 I’m looking to collaborate on **Blockchain Project**
+- 👯 I’m looking to collaborate on **Academic Projects**
 
-- 🤝 I’m looking for help with **Research work**
+- 🤝 I’m looking for help with **Open Source Contribution**
 
 - 📝 I regularly write articles on [lovebyte8.blogspot.com](lovebyte8.blogspot.com)
 
