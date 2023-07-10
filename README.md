@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Academic Projects**
 
-- 🤝 I’m looking for help with **Open Source Contribution**
+- 🤝 I’m looking for help with **Open source Contribution**
 
 - 📝 I regularly write articles on [lovebyte8.blogspot.com](lovebyte8.blogspot.com)
 
