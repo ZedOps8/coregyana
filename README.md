@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cloud DevOps**
 
-- 👯 I’m looking to collaborate on **Academic Projects**
+- 👯 I’m looking to collaborate on **Academic Rsearch Projects **
 
 - 🤝 I’m looking for help with **Open source Contribution**
 
