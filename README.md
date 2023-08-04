@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gyanapriya Pradhan</h1>
 <h3 align="center">A passionate Research Scholar & Full stack Developer from India</h3>
 
-<p align="left"> <a href="https://twitter.com/gyanapriya_7" target="blank"><img src="https://img.shields.io/twitter/follow/gyanapriya_7?logo=twitter&style=for-the-badge" alt="gyanapriya_7" /></a> </p>
+<p align="left"> <a href="https://twitter.com/zedops8" target="blank"><img src="https://img.shields.io/twitter/follow/gyanapriya_7?logo=twitter&style=for-the-badge" alt="gyanapriya_7" /></a> </p>
 
 - 🔭 I’m currently working on **Research work**
 
